@@ -9,7 +9,7 @@ profile:
   image: rui.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>   Hong Kong SAR  </p>
+    <p>----Hong Kong SAR---- </p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
