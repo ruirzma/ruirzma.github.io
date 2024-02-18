@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications (First or corresponding author)
-description: Publications by categories in reversed chronological order.
+title: publications
+description: Publications (first or corresponding author) by categories in reversed chronological order.
 nav: true
 nav_order: 2
 ---
