@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>City University of Hong Kong</a>. Tat Chee Avenue, Kowloon, Hong Kong SAR.
 
 profile:
   align: right
