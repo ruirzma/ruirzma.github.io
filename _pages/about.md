@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>City University of Hong Kong</a>. Tat Chee Avenue, Kowloon, Hong Kong SAR.
+subtitle: <a href=https://scholars.cityu.edu.hk/en/persons/rui-ma(36f41f38-b914-405b-b5d7-a85246c57403).html>City University of Hong Kong</a>.
 
 profile:
   align: right
   image: rui.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>--- Hong Kong SAR --- </p>
+    <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
