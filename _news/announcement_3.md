@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-10-22 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Best paper award at [CRIOCM 2019](https://link.springer.com/chapter/10.1007/978-981-15-8892-1_115)!
