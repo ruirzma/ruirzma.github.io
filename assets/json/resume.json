@@ -21,15 +21,53 @@
       }
     ]
   },
+
+  "education": [
+    {
+      "institution": "City University of Hong Kong",
+      "location": "Hong Kong",
+      "area": "Architecture and Civil Engineering",
+      "studyType": "PhD candidate",
+      "startDate": "2020-",
+      "endDate": "2024"
+
+    },
+    {
+      "institution": "National University Singapore",
+      "location": "Singapore",
+      "studyType": "Visiting Scholar",
+      "startDate": "2024.01-",
+      "endDate": "2024.07"
+
+    },
+    {
+      "institution": "Tongji University",
+      "location": "Shanghai",
+      "area": "Transportation Engineering",
+      "studyType": "M.Eng",
+      "startDate": "2017-",
+      "endDate": "2020"
+
+    },
+    {
+      "institution": "Inner Mongolia University",
+      "location": "Hohhot",
+      "area": "Civil Engineering",
+      "studyType": "B.Eng",
+      "startDate": "2013-",
+      "endDate": "2017"
+
+    }
+  ],
+  
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "City University of Hong Kong",
+      "position": "Teaching Assistant",
+      "startDate": "2021-",
+      "endDate": "2023",
+      "summary": "Teaching at .",
+      "highlights": ["CAXXX"]
     }
   ],
   "volunteer": [
@@ -43,35 +81,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "City University of Hong Kong",
-      "location": "Hong Kong",
-      "area": "Architecture and Civil Engineering",
-      "studyType": "PhD candidate",
-      "startDate": "2020-09",
-      "endDate": "2024-06"
 
-    },
-    {
-      "institution": "Tongji University",
-      "location": "Shanghai",
-      "area": "Transportation Engineering",
-      "studyType": "M.Eng",
-      "startDate": "2017-09",
-      "endDate": "2020-06"
-
-    },
-    {
-      "institution": "Inner Mongolia University",
-      "location": "Hohhot",
-      "area": "Civil Engineering",
-      "studyType": "B.Eng",
-      "startDate": "2013-09",
-      "endDate": "2017-06"
-
-    }
-  ],
   "awards": [
     {
       "title": "XXXXX",
