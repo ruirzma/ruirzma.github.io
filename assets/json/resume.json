@@ -73,17 +73,6 @@
       "highlights": ["CAXXX"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "XXXX",
-      "position": "XXX",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": ".",
-      "highlights": ["Awarded" ]
-    }
-  ],
 
   "awards": [
     {
@@ -140,11 +129,7 @@
       "name": "XXX",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
+        "XXX",
         "Quantum Teleportation"
       ]
     }
