@@ -7,17 +7,15 @@
     "phone": "",
     "url": "https://ruirzma.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Tat Chee Avenue, Kowloon",
+      "city": "Hong Kong SAR",
+      "countryCode": "China"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "None",
+        "url": "https://twitter.com/XXX"
       }
     ]
   },
@@ -76,40 +74,49 @@
 
   "awards": [
     {
-      "title": "XXXXX",
-      "date": "XXXXX",
-      "awarder": "",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": ".'"
+      "title": "Postgraduate Studentship",
+      "date": "2020/09 - 2024/08",
+      "awarder": "University Grants Committee (Hong Kong)",
+      "summary": ""
+    },
+    {
+      "title": "Research Tuition Scholarship",
+      "date": "2023/09-2024/08",
+      "awarder": "City University of Hong Kong",
+      "summary": ""
+    },
+    {
+      "title": "Research Tuition Scholarship",
+      "date": "2021/09-2022/08",
+      "awarder": "City University of Hong Kong",
+      "summary": "24th International Symposium on Advancement of Construction Management and Real Estate "
+    },    
+    {
+      "title": "Graduate Outstanding Student Scholarship",
+      "date": "2020/05",
+      "awarder": "Tongji University",
+      "summary": ""
+    },
+    {
+      "title": "Best Paper Award",
+      "date": "2019/12",
+      "awarder": "The Chinese Research Institute of Construction Management",
+      "summary": ""
+    },
+    {
+      "title": "Second Prize of the 15th China Graduate Mathematical Modelling Competition",
+      "date": "2018/12",
+      "awarder": "China Graduate Mathematical Modeling Competition Organizing Committee",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "IBM Data Science Professional Certificate",
+      "date": "2020/05",
+      "issuer": "IBM Skills Network",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/383UDYM4GWNA",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "XXX",
-      "date": "2018-01-01",
-      "issuer": "XXX",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    }
-
-  ],
-
-  "skills": [
-    {
-      "name": "XXX",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing"
-      ]
     }
   ],
   "languages": [
@@ -122,16 +129,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "XXX",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "XXX",
-        "Quantum Teleportation"
-      ]
     }
   ]
 }
