@@ -79,22 +79,19 @@
   "awards": [
     {
       "title": "Postgraduate Studentship",
-      "startDate": "2020",
-      "endDate": "2024",
+      "date": "2023-2024",
       "awarder": "University Grants Committee (Hong Kong)",
       "summary": ""
     },
     {
       "title": "Research Tuition Scholarship",
-      "startDate": "2023",
-      "endDate": "2024",
+      "date": "2023",
       "awarder": "City University of Hong Kong",
       "summary": ""
     },
     {
       "title": "Research Tuition Scholarship",
-      "startDate": "2021",
-      "endDate": "2022",
+      "date": "2021",
       "awarder": "City University of Hong Kong",
       "summary": "24th International Symposium on Advancement of Construction Management and Real Estate "
     },    

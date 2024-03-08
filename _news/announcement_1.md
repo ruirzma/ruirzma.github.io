@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visit NUS UAL!
+Visit [NUS Urban Analytics Lab](https://ual.sg/)!
