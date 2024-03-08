@@ -17,4 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Rui’s primary research focuses on the joint simulation and modeling of building energy consumption, urban microclimate dynamics, and energy management at the city scale. Rui’s interests also involve urban morphology, building reconstruction, semantic city 3D models, and digital twins.
+Rui’s primary research focuses on the joint simulation and modeling of building energy consumption, urban microclimate dynamics, and energy management at the city scale. 
+Rui’s interests also involve urban morphology, building reconstruction, semantic city 3D models, and digital twins.
