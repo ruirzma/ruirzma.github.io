@@ -78,12 +78,6 @@
 
   "awards": [
     {
-      "title": "Postgraduate Studentship",
-      "date": "2020-2024",
-      "awarder": "University Grants Committee (Hong Kong)",
-      "summary": ""
-    },
-    {
       "title": "Research Tuition Scholarship",
       "date": "2023",
       "awarder": "City University of Hong Kong",
@@ -94,7 +88,13 @@
       "date": "2021",
       "awarder": "City University of Hong Kong",
       "summary": ""
-    },    
+    },   
+    {
+      "title": "Postgraduate Studentship",
+      "date": "2020",
+      "awarder": "University Grants Committee (Hong Kong SAR)",
+      "summary": ""
+    }, 
     {
       "title": "Graduate Outstanding Student Scholarship",
       "date": "2020",
