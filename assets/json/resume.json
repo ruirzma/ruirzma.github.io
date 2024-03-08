@@ -67,8 +67,12 @@
       "position": "Teaching Assistant",
       "startDate": "2021-",
       "endDate": "2023",
-      "summary": "Teaching at .",
-      "highlights": ["CAXXX"]
+      "highlights": ["Environmental Economics, Planning and Policy",
+      "Beauty of Ancient Chinese Architecture",
+      "Integrated Building Project Development",
+      "Building Science",
+      "Structural Systems"
+    ]
     }
   ],
 
@@ -112,11 +116,10 @@
   ],
   "certificates": [
     {
-      "name": "IBM Data Science Professional Certificate",
+      "name": "Data Science Professional Certificate",
       "date": "2020/05",
       "issuer": "IBM Skills Network",
-      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/383UDYM4GWNA",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/383UDYM4GWNA"
     }
   ],
   "languages": [
