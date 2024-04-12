@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Visiting NUS Urban Analytics Lab](https://ual.sg/people/)!
+[Visiting NUS Urban Analytics Lab](https://ual.sg/people/)
