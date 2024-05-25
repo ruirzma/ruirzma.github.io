@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://scholars.cityu.edu.hk/en/persons/rui-ma(36f41f38-b914-405b-b5d7-a85246c57403).html>, PhD City University of Hong Kong</a>
+subtitle: <a href=https://scholars.cityu.edu.hk/en/persons/rui-ma(36f41f38-b914-405b-b5d7-a85246c57403).html>PhD, City University of Hong Kong</a>
 
 profile:
   align: right
