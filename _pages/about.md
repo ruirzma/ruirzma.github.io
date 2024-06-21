@@ -8,8 +8,8 @@ profile:
   align: right
   image: rui.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
+  # more_info: >
+  #   <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
 
 news: true # includes a list of news items
 # latest_posts: true # includes a list of the newest posts
@@ -18,8 +18,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <!-- Rui’s primary research focuses on the joint simulation and modeling of building energy consumption, urban microclimate dynamics, and energy management at the city scale. Rui’s interests also involve urban morphology, building reconstruction, semantic city 3D models, and digital twins. -->
-
-<big>**About Me**</big>
 
 I am an urban researcher with a PhD from the City University of Hong Kong. My work is driven by a passion for enhancing urban sustainability and efficiency through innovative technology and data-driven solutions.
 
