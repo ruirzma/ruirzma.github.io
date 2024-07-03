@@ -29,4 +29,4 @@ I am an urban researcher with a PhD from the City University of Hong Kong. My wo
 
 <!-- <big>**Get in Touch**</big> -->
 
-Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/rui-ma-820361163) profile or reach out directly via [email](mailto:rui.rz.ma@gmail.com). I am open to collaborative opportunities and discussions about potential projects that align with my research interests.
+Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/ruirzma) profile or reach out directly via [email](mailto:rui.rz.ma@gmail.com). I am open to collaborative opportunities and discussions about potential projects that align with my research interests.
