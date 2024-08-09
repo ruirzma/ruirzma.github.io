@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Rui Ma",
-    "label": "PhD",
+    "degree": "PhD",
     "image": "",
     "email": "rui.rz.ma@gmail.com",
     "phone": "",
@@ -24,7 +24,7 @@
     {
       "institution": "City University of Hong Kong",
       "location": "Hong Kong",
-      "area": "Architecture and Civil Engineering",
+      "area": "Urban Analytics",
       "studyType": "Ph.D.",
       "startDate": "2020-",
       "endDate": "2024",
