@@ -23,7 +23,7 @@ I am an urban researcher with a PhD from the City University of Hong Kong. My wo
 <!-- <big>**Research Focus**</big> -->
 
 * **Urban Building Energy Modeling**: Developing scalable   models to simulate energy dynamics at the city scale.
-* **Geospatial Data Science**: Leveraging spatial analysis to understand and improve urban systems.
+* **GeoAI**: Leveraging spatial analysis and AI modeling to understand and improve urban systems.
 * **3D Building Reconstruction**: Enhancing the precision of urban models through detailed 3D reconstructions.
 * **Urban Microclimate Analysis**: Investigating how urban design influences local climates and proposing solutions to mitigate adverse effects.
 
