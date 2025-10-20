@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Rui’s primary research focuses on the joint simulation and modeling of building energy consumption, urban microclimate dynamics, and energy management at the city scale. Rui’s interests also involve urban morphology, building reconstruction, semantic city 3D models, and digital twins. -->
 
-I am an urban researcher with a PhD from the City University of Hong Kong. My work is driven by a passion for enhancing urban sustainability and efficiency through innovative technology and data-driven solutions. Key areas of my work include:
+I am Rui Ma, an urban researcher with a Ph.D. in Urban Analytics from the City University of Hong Kong. My research explores how data science, artificial intelligence, and computational modeling can drive the transformation toward sustainable, intelligent, and resilient cities.. Key areas of my work include:
 <!-- <big>**Research Focus**</big> -->
 
-* **Urban Building Energy Modeling**: Developing scalable   models to simulate energy dynamics at the city scale.
-* **GeoAI**: Leveraging spatial analysis and AI modeling to understand and improve urban systems.
-* **3D Building Reconstruction**: Enhancing the precision of urban models through detailed 3D reconstructions.
-* **Urban Microclimate Analysis**: Investigating how urban design influences local climates and proposing solutions to mitigate adverse effects.
+* **Sustainable Urban Systems**: Developing scalable and reproducible frameworks for modeling, evaluating, and optimizing urban sustainability, with a focus on energy efficiency, carbon reduction, and data-driven policy support for climate-neutral cities.
+* **Smart Cities**: Advancing the digital transformation of urban environments through the integration of IoT data, digital twins, and AI-enabled decision support systems that enhance livability, resilience, and management efficiency.
+* **GeoAI**: Combining geospatial analytics and machine learning to uncover spatial patterns, predict urban behaviors, and model human–environment interactions across multiple scales using large-scale open geodata.
+* **Urban Building Energy Management**: Creating city-scale and distributed energy simulation models that bridge physics-based modeling and AI-driven surrogate learning, enabling rapid and accurate prediction of building energy use and emissions.
 
 <!-- <big>**Get in Touch**</big> -->
 
