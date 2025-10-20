@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: /assets/img/rui.jpg
+  image: rui.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>Tat Chee Avenue, Kowloon, Hong Kong SAR</p>
