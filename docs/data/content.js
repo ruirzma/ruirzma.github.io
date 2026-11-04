@@ -76,8 +76,8 @@ window.SITE_CONTENT = {
     "authors": "Yang, Chendi; Huang, Hao; Meng, Sian; Zhang, Yunjie; Lo, Jacqueline T. Y.; Ma, Rui",
     "journal": "Land Use Policy",
     "url": "https://doi.org/10.1016/j.landusepol.2026.107973",
-    "image": "",
-    "selected": false,
+    "image": "assets/img/paper-yang2026vitality.png",
+    "selected": true,
     "key": "yang2026vitality"
   },
   {
@@ -86,8 +86,8 @@ window.SITE_CONTENT = {
     "authors": "Wang, Linghao; Wang, Gaoyuan; Liu, Ziyu; Ma, Rui",
     "journal": "Sustainable Cities and Society",
     "url": "https://doi.org/10.1016/j.scs.2025.106898",
-    "image": "",
-    "selected": false,
+    "image": "assets/img/paper-wang2025activity.png",
+    "selected": true,
     "key": "wang2025activity"
   },
   {
@@ -166,7 +166,7 @@ window.SITE_CONTENT = {
     "authors": "Li, Qi; Hu, Maomao; Ma, Rui; Chen, Jiayu; Luo, Xiaowei",
     "journal": "Energy and Buildings",
     "url": "https://doi.org/10.1016/j.enbuild.2026.118051",
-    "image": "",
+    "image": "assets/img/paper-li2026tgcn.png",
     "selected": false,
     "key": "li2026tgcn"
   },
@@ -176,7 +176,7 @@ window.SITE_CONTENT = {
     "authors": "Zhang, Botao; Dai, Ziyi; Ma, Rui; Tang, Tieqiao; Lo, Siuming",
     "journal": "IEEE Transactions on Intelligent Transportation Systems",
     "url": "https://doi.org/10.1109/TITS.2026.3657236",
-    "image": "",
+    "image": "assets/img/paper-zhang2026step.png",
     "selected": false,
     "key": "zhang2026step"
   },
@@ -186,7 +186,7 @@ window.SITE_CONTENT = {
     "authors": "Huang, Hao; Tsou, Jin Yeu; Zheng, Hao; Ma, Rui; Shi, Haochen; Zhang, Botao",
     "journal": "Applied Geography",
     "url": "https://doi.org/10.1016/j.apgeog.2026.104052",
-    "image": "",
+    "image": "assets/img/paper-huang2026hiking.png",
     "selected": false,
     "key": "huang2026hiking"
   },
@@ -196,7 +196,7 @@ window.SITE_CONTENT = {
     "authors": "Li, Qi; Wang, Wei; Ma, Rui; Chen, Jiayu; Luo, Xiaowei",
     "journal": "Building and Environment",
     "url": "https://doi.org/10.1016/j.buildenv.2025.114171",
-    "image": "",
+    "image": "assets/img/paper-li2026microclimate.png",
     "selected": false,
     "key": "li2026microclimate"
   },
@@ -206,7 +206,7 @@ window.SITE_CONTENT = {
     "authors": "Zhu, Yifan; Ouyang, Yewei; Pan, Rui; Sun, Zhanhui; Zhou, Yang; Ma, Rui; Cheng, Baoquan; Wang, Wen",
     "journal": "Buildings",
     "url": "https://doi.org/10.3390/buildings16051037",
-    "image": "",
+    "image": "assets/img/paper-zhu2026safety.png",
     "selected": false,
     "key": "zhu2026safety"
   },
@@ -216,7 +216,7 @@ window.SITE_CONTENT = {
     "authors": "Li, Qi; Ma, Rui; Yang, Mo; Wang, Wei; Chen, Jiayu",
     "journal": "Journal of Building Design and Environment",
     "url": "https://doi.org/10.70401/jbde.2025.0014",
-    "image": "",
+    "image": "assets/img/paper-li2025nzeb.png",
     "selected": false,
     "key": "li2025nzeb"
   },
@@ -226,7 +226,7 @@ window.SITE_CONTENT = {
     "authors": "Ito, Koichi; Zhu, Yihan; Abdelrahman, Mahmoud; Liang, Xiucheng; Fan, Zicheng; Hou, Yujun; Zhao, Tianhong; Ma, Rui; Fujiwara, Kunihiko; Ouyang, Jiani; Quintana, Matias; Biljecki, Filip",
     "journal": "Computers, Environment and Urban Systems",
     "url": "https://doi.org/10.1016/j.compenvurbsys.2025.102283",
-    "image": "",
+    "image": "assets/img/paper-ito2025zensvi.png",
     "selected": false,
     "key": "ito2025zensvi"
   },
