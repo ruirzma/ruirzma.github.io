@@ -61,159 +61,205 @@ window.SITE_CONTENT = {
   ],
   "publications": [
     {
-      "year": 2024,
-      "title": "An Ontology-driven Method for Urban Building Energy Modeling",
-      "authors": "Ma, Rui; Li, Qi; Zhang, Botao; Huang, Hao; Yang, Chendi",
-      "journal": "Sustainable Cities and Society",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2210670724002221",
-      "image": "assets/img/paper-ma2024ontology.webp",
-      "selected": true,
-      "bibtex": "@article{ma2024ontology,\n  title={An Ontology-driven Method for Urban Building Energy Modeling},\n  author={Ma, Rui and Li, Qi and Zhang, Botao and Huang, Hao and Yang, Chendi},\n  journal={Sustainable Cities and Society},\n  pages={105394},\n  year={2024},\n  publisher={Elsevier},\n  preview={ma2024ontology.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.sciencedirect.com/science/article/abs/pii/S2210670724002221}\n}",
-      "key": "ma2024ontology"
-    },
-    {
-      "year": 2024,
-      "title": "The effect of the perceptible built environment on pedestrians’ walking behaviors in commercial districts: Evidence from Hong Kong",
-      "authors": "Yang, Chendi; Lo, Siu Ming; Ma, Rui; Fang, Hongqiang",
-      "journal": "Environment and Planning B: Urban Analytics and City Science",
-      "url": "https://journals.sagepub.com/doi/abs/10.1177/23998083231177699",
-      "image": "assets/img/paper-yang2024effect.webp",
-      "selected": false,
-      "bibtex": "@article{yang2024effect,\n  title={The effect of the perceptible built environment on pedestrians’ walking behaviors in commercial districts: Evidence from Hong Kong},\n  author={Yang, Chendi and Lo, Siu Ming and Ma, Rui and Fang, Hongqiang},\n  journal={Environment and Planning B: Urban Analytics and City Science},\n  volume={51},\n  number={2},\n  pages={329--346},\n  year={2024},\n  preview={yang2024effect.jpg},\n  bibtex_show={true},\n  html={https://journals.sagepub.com/doi/abs/10.1177/23998083231177699},\n  publisher={SAGE Publications Sage UK: London, England}\n}",
-      "key": "yang2024effect"
-    },
-    {
-      "year": 2024,
-      "title": "OSMsc: a framework for semantic 3D city modeling using OpenStreetMap",
-      "authors": "Ma, Rui; Chen, Jiayu; Yang, Chendi; Li, Xin",
-      "journal": "International Journal of Geographical Information Science",
-      "url": "https://www.tandfonline.com/doi/abs/10.1080/13658816.2023.2266824",
-      "image": "assets/img/paper-ma2024osmsc.webp",
-      "selected": true,
-      "bibtex": "@article{ma2024osmsc,\n  title={OSMsc: a framework for semantic 3D city modeling using OpenStreetMap},\n  author={Ma, Rui and Chen, Jiayu and Yang, Chendi and Li, Xin},\n  journal={International Journal of Geographical Information Science},\n  volume={38},\n  number={1},\n  pages={1--26},\n  year={2024},\n  preview={osmsc.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.tandfonline.com/doi/abs/10.1080/13658816.2023.2266824},\n  publisher={Taylor \\& Francis}\n}",
-      "key": "ma2024osmsc"
-    },
-    {
-      "year": 2023,
-      "title": "Street characteristics and human activities in commercial districts: A clustering-based approach application for Shenzhen",
-      "authors": "Yang, Chendi; Ma, Rui; Fang, Hongqiang; Lo, Siu Ming; Lo, Jacqueline TY",
-      "journal": "Environment and Planning B: Urban Analytics and City Science",
-      "url": "https://journals.sagepub.com/doi/10.1177/23998083231224013",
-      "image": "assets/img/paper-yang2023street.webp",
-      "selected": false,
-      "bibtex": "@article{yang2023street,\n  title={Street characteristics and human activities in commercial districts: A clustering-based approach application for Shenzhen},\n  author={Yang, Chendi and Ma, Rui and Fang, Hongqiang and Lo, Siu Ming and Lo, Jacqueline TY},\n  journal={Environment and Planning B: Urban Analytics and City Science},\n  pages={23998083231224013},\n  year={2023},\n  preview={yang2023street.jpg},\n  bibtex_show={true},\n  html={https://journals.sagepub.com/doi/10.1177/23998083231224013},\n  publisher={Sage Publications Sage UK: London, England}\n}",
-      "key": "yang2023street"
-    },
-    {
-      "year": 2023,
-      "title": "A tiled multi-city urban objects dataset for city-scale building energy simulation",
-      "authors": "Ma, Rui; Fang, Dongping; Chen, Jiayu; Li, Xin",
-      "journal": "Scientific Data",
-      "url": "https://www.nature.com/articles/s41597-023-02261-5",
-      "image": "assets/img/paper-ma2023tiled.webp",
-      "selected": true,
-      "bibtex": "@article{ma2023tiled,\n  title={A tiled multi-city urban objects dataset for city-scale building energy simulation},\n  author={Ma, Rui and Fang, Dongping and Chen, Jiayu and Li, Xin},\n  journal={Scientific Data},\n  volume={10},\n  number={1},\n  pages={352},\n  year={2023},\n  preview={UPTO.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.nature.com/articles/s41597-023-02261-5},\n  publisher={Nature Publishing Group UK London}\n}",
-      "key": "ma2023tiled"
-    },
-    {
-      "year": 2023,
-      "title": "A Method for Semantic City Modeling",
-      "authors": "Ma, Rui; Chen, Jiayu; Yang, Chendi; Li, Xin",
-      "journal": "International Civil Engineering and Architecture Conference",
-      "url": "https://link.springer.com/chapter/10.1007/978-981-99-6368-3_73",
-      "image": "assets/img/paper-ma2023method.webp",
-      "selected": false,
-      "bibtex": "@inproceedings{ma2023method,\n  title={A Method for Semantic City Modeling},\n  author={Ma, Rui and Chen, Jiayu and Yang, Chendi and Li, Xin},\n  booktitle={International Civil Engineering and Architecture Conference},\n  pages={903--912},\n  year={2023},\n  preview={CEAC2023.jpg},\n  bibtex_show={true},\n  html={https://link.springer.com/chapter/10.1007/978-981-99-6368-3_73},\n  organization={Springer}\n}",
-      "key": "ma2023method"
-    },
-    {
-      "year": 2023,
-      "title": "Enriching the Semantics of CityJSON Road Objects with OpenStreetMap",
-      "authors": "Ma, Rui; Yang, Chendi; Li, Xin",
-      "journal": "GSCS & ICUI",
-      "url": "https://isocui.org/icui2023/programme/GSCS&ICUI2023-Conference-Proceedings.pdf",
-      "image": "assets/img/paper-ma2023enriching.webp",
-      "selected": false,
-      "bibtex": "@inproceedings{ma2023enriching,\n  title={Enriching the Semantics of CityJSON Road Objects with OpenStreetMap},\n  author={Ma, Rui and Yang, Chendi and Li, Xin},\n  booktitle={GSCS & ICUI},\n  year={2023},\n  preview={GSCS2023.jpg},\n  html={https://isocui.org/icui2023/programme/GSCS&ICUI2023-Conference-Proceedings.pdf},\n  bibtex_show={true}\n}",
-      "key": "ma2023enriching"
-    },
-    {
-      "year": 2022,
-      "title": "Tuning urban microclimate: A morpho-patch approach for multi-scale building group energy simulation",
-      "authors": "Ma, Rui; Wang, Tao; Wang, Yan; Chen, Jiayu",
-      "journal": "Sustainable Cities and Society",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2210670721007824",
-      "image": "assets/img/paper-ma2022tuning.webp",
-      "selected": true,
-      "bibtex": "@article{ma2022tuning,\n  title={Tuning urban microclimate: A morpho-patch approach for multi-scale building group energy simulation},\n  author={Ma, Rui and Wang, Tao and Wang, Yan and Chen, Jiayu},\n  journal={Sustainable Cities and Society},\n  volume={76},\n  pages={103516},\n  year={2022},\n  preview={Tunned-micro.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.sciencedirect.com/science/article/abs/pii/S2210670721007824},\n  publisher={Elsevier}\n}",
-      "key": "ma2022tuning"
-    },
-    {
-      "year": 2021,
-      "title": "An elastic urban morpho-blocks (EUM) modeling method for urban building morphological analysis and feature clustering",
-      "authors": "Ma, Rui; Li, Xin; Chen, Jiayu",
-      "journal": "Building and Environment",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0360132321000585",
-      "image": "assets/img/paper-ma2021elastic.webp",
-      "selected": true,
-      "bibtex": "@article{ma2021elastic,\n  title={An elastic urban morpho-blocks (EUM) modeling method for urban building morphological analysis and feature clustering},\n  author={Ma, Rui and Li, Xin and Chen, Jiayu},\n  journal={Building and Environment},\n  volume={192},\n  pages={107646},\n  year={2021},\n  preview={EUM.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.sciencedirect.com/science/article/abs/pii/S0360132321000585},\n  publisher={Elsevier}\n}",
-      "key": "ma2021elastic"
-    },
-    {
-      "year": 2020,
-      "title": "Heuristic optimization for grid-interactive net-zero energy building design through the glowworm swarm algorithm",
-      "authors": "Sun, Yongjun; Ma, Rui; Chen, Jiayu; Xu, Tao",
-      "journal": "Energy and Buildings",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378778819328075",
-      "image": "assets/img/paper-sun2020heuristic.webp",
-      "selected": false,
-      "bibtex": "@article{sun2020heuristic,\n  title={Heuristic optimization for grid-interactive net-zero energy building design through the glowworm swarm algorithm},\n  author={Sun, Yongjun and Ma, Rui and Chen, Jiayu and Xu, Tao},\n  journal={Energy and Buildings},\n  volume={208},\n  pages={109644},\n  year={2020},\n  preview={sun2020.jpg},\n  bibtex_show={true},\n  html={https://www.sciencedirect.com/science/article/abs/pii/S0378778819328075},\n  publisher={Elsevier}\n}",
-      "key": "sun2020heuristic"
-    },
-    {
-      "year": 2020,
-      "title": "Modeling urban energy dynamics under clustered urban heat island effect with local-weather extended distributed adjacency blocks",
-      "authors": "Ma, Rui; Ren, Bin; Zhao, Dong; Chen, Jiayu; Lu, Yujie",
-      "journal": "Sustainable Cities and Society",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S221067072030086X",
-      "image": "assets/img/paper-ma2020modeling.webp",
-      "selected": true,
-      "bibtex": "@article{ma2020modeling,\n  title={Modeling urban energy dynamics under clustered urban heat island effect with local-weather extended distributed adjacency blocks},\n  author={Ma, Rui and Ren, Bin and Zhao, Dong and Chen, Jiayu and Lu, Yujie},\n  journal={Sustainable Cities and Society},\n  volume={56},\n  pages={102099},\n  year={2020},\n  preview={DAB-LW.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.sciencedirect.com/science/article/abs/pii/S221067072030086X},\n  publisher={Elsevier}\n}",
-      "key": "ma2020modeling"
-    },
-    {
-      "year": 2020,
-      "title": "Distributed Adjacent Block Modeling (DAB): A Rapid Urban Building Energy Dynamics Simulation with Urban Building Digital Model",
-      "authors": "Ma, Rui; Chen, Jiayu; Luo, Xiaowei",
-      "journal": "Construction Research Congress",
-      "url": "https://ascelibrary.org/doi/10.1061/9780784482858.008",
-      "image": "assets/img/paper-ma2020distributed.webp",
-      "selected": false,
-      "bibtex": "@inproceedings{ma2020distributed,\n  title={Distributed Adjacent Block Modeling (DAB): A Rapid Urban Building Energy Dynamics Simulation with Urban Building Digital Model},\n  author={Ma, Rui and Chen, Jiayu and Luo, Xiaowei},\n  booktitle={Construction Research Congress},\n  pages={60--68},\n  year={2020},\n  preview={CRC.jpg},\n  bibtex_show={true},\n  html={https://ascelibrary.org/doi/10.1061/9780784482858.008},\n  organization={American Society of Civil Engineers Reston, VA}\n}",
-      "key": "ma2020distributed"
-    },
-    {
-      "year": 2019,
-      "title": "Modeling city-scale building energy dynamics through inter-connected distributed adjacency blocks",
-      "authors": "Ma, Rui; Geng, Chuanzhi; Yu, Zhun; Chen, Jiayu; Luo, Xiaowei",
-      "journal": "Energy and Buildings",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378778819311831",
-      "image": "assets/img/paper-ma2019modeling.webp",
-      "selected": true,
-      "bibtex": "@article{ma2019modeling,\n  title={Modeling city-scale building energy dynamics through inter-connected distributed adjacency blocks},\n  author={Ma, Rui and Geng, Chuanzhi and Yu, Zhun and Chen, Jiayu and Luo, Xiaowei},\n  journal={Energy and Buildings},\n  volume={202},\n  pages={109391},\n  year={2019},\n  preview={DAB.jpg},\n  bibtex_show={true},\n  selected={true},\n  html={https://www.sciencedirect.com/science/article/abs/pii/S0378778819311831},\n  publisher={Elsevier}\n}",
-      "key": "ma2019modeling"
-    },
-    {
-      "year": 2019,
-      "title": "Simulating Urban Building Energy Dynamic with Inter-Building-Effects (Ibes) Linked Building Networks",
-      "authors": "Ma, Rui; Chen, Jiayu; Luo, Xiaowei",
-      "journal": "International Symposium on Advancement of Construction Management and Real Estate",
-      "url": "https://link.springer.com/chapter/10.1007/978-981-15-8892-1_115",
-      "image": "assets/img/paper-ma2019simulating.webp",
-      "selected": false,
-      "bibtex": "@inproceedings{ma2019simulating,\n  title={Simulating Urban Building Energy Dynamic with Inter-Building-Effects (Ibes) Linked Building Networks},\n  author={Ma, Rui and Chen, Jiayu and Luo, Xiaowei},\n  booktitle={International Symposium on Advancement of Construction Management and Real Estate},\n  pages={1647--1654},\n  year={2019},\n  preview={ibes.jpg},\n  bibtex_show={true},\n  html={https://link.springer.com/chapter/10.1007/978-981-15-8892-1_115},\n  organization={Springer}\n}",
-      "key": "ma2019simulating"
-    }
+    "year": 2026,
+    "title": "Street View Imagery-Based Method for Reconstructing 3D Building Façade Openings",
+    "authors": "Ma, Rui; Yang, Chendi; Chen, Jiayu; Biljecki, Filip; Li, Xin",
+    "journal": "Automation in Construction",
+    "url": "https://doi.org/10.1016/j.autcon.2026.106842",
+    "image": "",
+    "selected": false,
+    "key": "ma2026facade"
+  },
+  {
+    "year": 2026,
+    "title": "Typology-based spatial modeling of urban block commercial vitality: Evidence from Shenzhen for land use planning",
+    "authors": "Yang, Chendi; Huang, Hao; Meng, Sian; Zhang, Yunjie; Lo, Jacqueline T. Y.; Ma, Rui",
+    "journal": "Land Use Policy",
+    "url": "https://doi.org/10.1016/j.landusepol.2026.107973",
+    "image": "",
+    "selected": false,
+    "key": "yang2026vitality"
+  },
+  {
+    "year": 2025,
+    "title": "Exploring Urban Activity Intensity with Gravity-Based Betweenness Centrality and Social Media Evaluation: A Case Study of Beijing",
+    "authors": "Wang, Linghao; Wang, Gaoyuan; Liu, Ziyu; Ma, Rui",
+    "journal": "Sustainable Cities and Society",
+    "url": "https://doi.org/10.1016/j.scs.2025.106898",
+    "image": "",
+    "selected": false,
+    "key": "wang2025activity"
+  },
+  {
+    "year": 2024,
+    "title": "An Ontology-driven Method for Urban Building Energy Modeling",
+    "authors": "Ma, Rui; Li, Qi; Zhang, Botao; Huang, Hao; Yang, Chendi",
+    "journal": "Sustainable Cities and Society",
+    "url": "https://doi.org/10.1016/j.scs.2024.105394",
+    "image": "assets/img/paper-ma2024ontology.webp",
+    "selected": true,
+    "key": "ma2024ontology"
+  },
+  {
+    "year": 2023,
+    "title": "A Tiled Multi-city Urban Objects Dataset for City-scale Building Energy Simulation",
+    "authors": "Ma, Rui; Fang, Dongping; Chen, Jiayu; Li, Xin",
+    "journal": "Scientific Data",
+    "url": "https://doi.org/10.1038/s41597-023-02261-5",
+    "image": "assets/img/paper-ma2023tiled.webp",
+    "selected": true,
+    "key": "ma2023tiled"
+  },
+  {
+    "year": 2024,
+    "title": "OSMsc: a framework for semantic 3D city modeling using OpenStreetMap",
+    "authors": "Ma, Rui; Chen, Jiayu; Yang, Chendi; Li, Xin",
+    "journal": "International Journal of Geographical Information Science",
+    "url": "https://doi.org/10.1080/13658816.2023.2266824",
+    "image": "assets/img/paper-ma2024osmsc.webp",
+    "selected": true,
+    "key": "ma2024osmsc"
+  },
+  {
+    "year": 2022,
+    "title": "Tuning Urban Microclimate: A Morpho-patch Approach for Multi-scale Building Group Energy Simulation",
+    "authors": "Ma, Rui; Wang, Tao; Wang, Yan; Chen, Jiayu",
+    "journal": "Sustainable Cities and Society",
+    "url": "https://doi.org/10.1016/j.scs.2021.103516",
+    "image": "assets/img/paper-ma2022tuning.webp",
+    "selected": true,
+    "key": "ma2022tuning"
+  },
+  {
+    "year": 2021,
+    "title": "An Elastic Urban Morpho-blocks (EUM) Modeling Method for Urban Building Morphological Analysis and Feature Clustering",
+    "authors": "Ma, Rui; Li, Xin; Chen, Jiayu",
+    "journal": "Building and Environment",
+    "url": "https://doi.org/10.1016/j.buildenv.2021.107646",
+    "image": "assets/img/paper-ma2021elastic.webp",
+    "selected": true,
+    "key": "ma2021elastic"
+  },
+  {
+    "year": 2020,
+    "title": "Modeling Urban Energy Dynamics under Clustered Urban Heat Island Effect with Local-weather Extended Distributed Adjacency Blocks",
+    "authors": "Ma, Rui; Ren, Bin; Zhao, Dong; Chen, Jiayu; Lu, Yujie",
+    "journal": "Sustainable Cities and Society",
+    "url": "https://doi.org/10.1016/j.scs.2020.102099",
+    "image": "assets/img/paper-ma2020modeling.webp",
+    "selected": true,
+    "key": "ma2020modeling"
+  },
+  {
+    "year": 2019,
+    "title": "Modeling City-scale Building Energy Dynamics through Inter-connected Distributed Adjacency Blocks",
+    "authors": "Ma, Rui; Geng, Chuanzhi; Yu, Zhun; Chen, Jiayu; Luo, Xiaowei",
+    "journal": "Energy and Buildings",
+    "url": "https://doi.org/10.1016/j.enbuild.2019.109391",
+    "image": "assets/img/paper-ma2019modeling.webp",
+    "selected": true,
+    "key": "ma2019modeling"
+  },
+  {
+    "year": 2026,
+    "title": "Temporal graph convolutional networks with morphological adjacency matrix: microclimate prediction for building energy modeling",
+    "authors": "Li, Qi; Hu, Maomao; Ma, Rui; Chen, Jiayu; Luo, Xiaowei",
+    "journal": "Energy and Buildings",
+    "url": "https://doi.org/10.1016/j.enbuild.2026.118051",
+    "image": "",
+    "selected": false,
+    "key": "li2026tgcn"
+  },
+  {
+    "year": 2026,
+    "title": "What Determines a Step: Observations from Pedestrian Movement Evaluation at Intersections with Machine Learning Methods",
+    "authors": "Zhang, Botao; Dai, Ziyi; Ma, Rui; Tang, Tieqiao; Lo, Siuming",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "url": "https://doi.org/10.1109/TITS.2026.3657236",
+    "image": "",
+    "selected": false,
+    "key": "zhang2026step"
+  },
+  {
+    "year": 2026,
+    "title": "Modeling hiking speed via interpretable machine learning: Uncovering nonlinear impacts of multidimensional environmental factors",
+    "authors": "Huang, Hao; Tsou, Jin Yeu; Zheng, Hao; Ma, Rui; Shi, Haochen; Zhang, Botao",
+    "journal": "Applied Geography",
+    "url": "https://doi.org/10.1016/j.apgeog.2026.104052",
+    "image": "",
+    "selected": false,
+    "key": "huang2026hiking"
+  },
+  {
+    "year": 2026,
+    "title": "Integrating graphic building group height distribution grids to assess a city’s microclimate with wind-direction-dependent deep transfer learning neural networks",
+    "authors": "Li, Qi; Wang, Wei; Ma, Rui; Chen, Jiayu; Luo, Xiaowei",
+    "journal": "Building and Environment",
+    "url": "https://doi.org/10.1016/j.buildenv.2025.114171",
+    "image": "",
+    "selected": false,
+    "key": "li2026microclimate"
+  },
+  {
+    "year": 2026,
+    "title": "An Integrated Framework for Automated Identification of Workers’ Safety Violation Based on Knowledge Graph",
+    "authors": "Zhu, Yifan; Ouyang, Yewei; Pan, Rui; Sun, Zhanhui; Zhou, Yang; Ma, Rui; Cheng, Baoquan; Wang, Wen",
+    "journal": "Buildings",
+    "url": "https://doi.org/10.3390/buildings16051037",
+    "image": "",
+    "selected": false,
+    "key": "zhu2026safety"
+  },
+  {
+    "year": 2025,
+    "title": "Net Zero Energy Buildings for low-carbon cities: Progress, challenges, and future directions",
+    "authors": "Li, Qi; Ma, Rui; Yang, Mo; Wang, Wei; Chen, Jiayu",
+    "journal": "Journal of Building Design and Environment",
+    "url": "https://doi.org/10.70401/jbde.2025.0014",
+    "image": "",
+    "selected": false,
+    "key": "li2025nzeb"
+  },
+  {
+    "year": 2025,
+    "title": "ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science",
+    "authors": "Ito, Koichi; Zhu, Yihan; Abdelrahman, Mahmoud; Liang, Xiucheng; Fan, Zicheng; Hou, Yujun; Zhao, Tianhong; Ma, Rui; Fujiwara, Kunihiko; Ouyang, Jiani; Quintana, Matias; Biljecki, Filip",
+    "journal": "Computers, Environment and Urban Systems",
+    "url": "https://doi.org/10.1016/j.compenvurbsys.2025.102283",
+    "image": "",
+    "selected": false,
+    "key": "ito2025zensvi"
+  },
+  {
+    "year": 2024,
+    "title": "Street Characteristics and Human Activities in Commercial Districts: A Clustering-based Approach Application for Shenzhen",
+    "authors": "Yang, Chendi; Ma, Rui; Fang, Hongqiang; Lo, Siu Ming; Lo, Jacqueline T. Y.",
+    "journal": "Environment and Planning B: Urban Analytics and City Science",
+    "url": "https://doi.org/10.1177/23998083231224013",
+    "image": "assets/img/paper-yang2023street.webp",
+    "selected": false,
+    "key": "yang2023street"
+  },
+  {
+    "year": 2024,
+    "title": "The Effect of the Perceptible Built Environment on Pedestrians’ Walking Behaviors in Commercial Districts: Evidence from Hong Kong",
+    "authors": "Yang, Chendi; Lo, Siu Ming; Ma, Rui; Fang, Hongqiang",
+    "journal": "Environment and Planning B: Urban Analytics and City Science",
+    "url": "https://doi.org/10.1177/23998083231177699",
+    "image": "assets/img/paper-yang2024effect.webp",
+    "selected": false,
+    "key": "yang2024effect"
+  },
+  {
+    "year": 2020,
+    "title": "Heuristic Optimization for Grid-interactive Net-zero Energy Building Design Through the Glowworm Swarm Algorithm",
+    "authors": "Sun, Yongjun; Ma, Rui; Chen, Jiayu; Xu, Tao",
+    "journal": "Energy and Buildings",
+    "url": "https://doi.org/10.1016/j.enbuild.2019.109644",
+    "image": "assets/img/paper-sun2020heuristic.webp",
+    "selected": false,
+    "key": "sun2020heuristic"
+  }
   ],
   "projects": [
     {
