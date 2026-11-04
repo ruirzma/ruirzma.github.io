@@ -29,10 +29,14 @@ if(paperList) paperList.innerHTML=papers.map((p,i)=>{
   const name = (p.authors || '').split(';').map(author => {
   const original = author.trim();
   const displayed = formatAuthorName(original);
-  return original === 'Ma, Rui'
-    ? '<strong>' + esc(displayed) + '</strong>'
-    : esc(displayed);
-  }).join('; ');
+
+  if (original === 'Ma, Rui') {
+    const star = p.corresponding === true ? '*' : '';
+    return '<strong>' + esc(displayed) + star + '</strong>';
+  }
+
+  return esc(displayed);
+}).join('; ');
   return `<article class="paper" data-index="${i}"><button class="image-button" aria-label="Enlarge image for ${esc(p.title)}" style="border:0;padding:0;background:transparent;align-self:start;line-height:0"><img class="paper-image" src="${esc(p.image)}" alt="Research image for ${esc(p.title)}" loading="lazy"></button><div><h3 class="paper-title"><a href="${link(p.url)}" ${ext}>${esc(p.title)}</a></h3><p class="authors">${name}</p><p class="venue">${esc(p.journal)} <b>· ${esc(p.year)}</b></p><div class="paper-links"><a class="pill" href="${link(p.url)}" ${ext}>Paper ↗</a>${optional}${p.bibtex?`<details><summary class="pill">BibTeX</summary><pre class="bib">${esc(p.bibtex)}</pre></details>`:''}</div></div></article>`;
 }).join('');
 const plist=$('#project-list'); if(plist) plist.innerHTML=(data.projects||[]).map(p=>`<article class="project-card"><a href="${link(p.url)}" ${ext}><img src="${esc(p.image)}" alt="${esc(p.title)} project image" loading="lazy"></a><div class="project-copy"><h3>${esc(p.title)}</h3><p>${esc(p.description)}</p><a href="${link(p.url)}" ${ext}>Explore project ↗</a></div></article>`).join('');
