@@ -17,11 +17,22 @@ const timelineHTML=arr=>arr.map(e=>`<article><time>${esc(e.period)}</time><div><
 const exp=$('#experience-list'); if(exp) exp.innerHTML=timelineHTML(data.experience||[]);
 const eexp=$('#earlier-experience-list'); if(eexp) eexp.innerHTML=timelineHTML(data.earlierExperience||[]);
 
+const formatAuthorName = author => {
+  const s = String(author || '').trim();
+  const i = s.indexOf(',');
+  return i < 0 ? s : s.slice(i + 1).trim() + ' ' + s.slice(0, i).trim();
+};
 const papers=[...(data.publications||[])].sort((a,b)=>(Number(b.year)||0)-(Number(a.year)||0));
 const paperList=$('#paper-list');
 if(paperList) paperList.innerHTML=papers.map((p,i)=>{
   const optional=p.key==='ma2024osmsc' ? '<a class="pill" href="https://github.com/ruirzma/osmsc" '+ext+'>Code ↗</a>':p.key==='ma2023tiled'?'<a class="pill" href="https://doi.org/10.6084/m9.figshare.20799637.v5" '+ext+'>Data ↗</a>':'';
-  const name=(p.authors||'').split('Ma, Rui').map(esc).join('<strong>Ma, Rui</strong>');
+  const name = (p.authors || '').split(';').map(author => {
+  const original = author.trim();
+  const displayed = formatAuthorName(original);
+  return original === 'Ma, Rui'
+    ? '<strong>' + esc(displayed) + '</strong>'
+    : esc(displayed);
+  }).join('; ');
   return `<article class="paper" data-index="${i}"><button class="image-button" aria-label="Enlarge image for ${esc(p.title)}" style="border:0;padding:0;background:transparent;align-self:start;line-height:0"><img class="paper-image" src="${esc(p.image)}" alt="Research image for ${esc(p.title)}" loading="lazy"></button><div><h3 class="paper-title"><a href="${link(p.url)}" ${ext}>${esc(p.title)}</a></h3><p class="authors">${name}</p><p class="venue">${esc(p.journal)} <b>· ${esc(p.year)}</b></p><div class="paper-links"><a class="pill" href="${link(p.url)}" ${ext}>Paper ↗</a>${optional}${p.bibtex?`<details><summary class="pill">BibTeX</summary><pre class="bib">${esc(p.bibtex)}</pre></details>`:''}</div></div></article>`;
 }).join('');
 const plist=$('#project-list'); if(plist) plist.innerHTML=(data.projects||[]).map(p=>`<article class="project-card"><a href="${link(p.url)}" ${ext}><img src="${esc(p.image)}" alt="${esc(p.title)} project image" loading="lazy"></a><div class="project-copy"><h3>${esc(p.title)}</h3><p>${esc(p.description)}</p><a href="${link(p.url)}" ${ext}>Explore project ↗</a></div></article>`).join('');
