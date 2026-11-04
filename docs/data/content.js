@@ -29,6 +29,10 @@ window.SITE_CONTENT = {
   ],
   "news": [
     {
+      "date": "2025-01-06",
+      "text": "Joining the Zhengzhou University!"
+    },
+    {
       "date": "2024-05-09",
       "text": "Successfully completed doctoral defense!",
       "url": "https://scholars.cityu.edu.hk/en/persons/rui-ma(36f41f38-b914-405b-b5d7-a85246c57403).html"
