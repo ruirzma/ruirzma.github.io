@@ -66,8 +66,8 @@ window.SITE_CONTENT = {
     "authors": "Ma, Rui; Yang, Chendi; Chen, Jiayu; Biljecki, Filip; Li, Xin",
     "journal": "Automation in Construction",
     "url": "https://doi.org/10.1016/j.autcon.2026.106842",
-    "image": "",
-    "selected": false,
+    "image": "assets/img/paper-ma2026facade.png",
+    "selected": true,
     "key": "ma2026facade"
   },
   {
