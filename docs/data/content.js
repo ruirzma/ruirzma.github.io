@@ -78,6 +78,7 @@ window.SITE_CONTENT = {
     "url": "https://doi.org/10.1016/j.landusepol.2026.107973",
     "image": "assets/img/paper-yang2026vitality.png",
     "selected": true,
+    "corresponding": true,
     "key": "yang2026vitality"
   },
   {
@@ -88,6 +89,7 @@ window.SITE_CONTENT = {
     "url": "https://doi.org/10.1016/j.scs.2025.106898",
     "image": "assets/img/paper-wang2025activity.png",
     "selected": true,
+    "corresponding": true,
     "key": "wang2025activity"
   },
   {
