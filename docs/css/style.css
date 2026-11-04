@@ -131,12 +131,49 @@ html[data-design=observatory] .research-item{padding:18px 20px}
 html[data-design=observatory] .research-item h3{margin-top:0}
 @media(max-width:760px){.intro-panel{padding:20px 18px}.intro-panel h2{font-size:20px}}
 
-/* MapMyVisitors official JavaScript widget. User-provided widget ID, not static map.png. */
-.visitor-section{margin-top:44px}
-.visitor-card{width:min(340px,100%);max-width:100%;min-height:120px;margin:8px auto 0;overflow:hidden}
-.mapmyvisitors-embed{width:100%;max-width:310px;min-height:80px;display:flex;justify-content:center;align-items:center;overflow:hidden}
-.mapmyvisitors-embed img,.mapmyvisitors-embed iframe,.mapmyvisitors-embed object{max-width:100%!important;height:auto!important;display:block;margin:0 auto}
-.visitor-card .map-note{margin-top:10px;font-size:11px}
-.visitor-card .map-note a{display:inline;line-height:1.5}
-.map-fallback{font-size:11px;color:var(--muted)}
-@media(max-width:760px){.visitor-card{width:min(340px,100%)}.mapmyvisitors-embed{max-width:100%}}
+/* RevolverMaps2 visitor globe — 400px desktop size */
+.visitor-section {
+  margin-top: 44px;
+}
+
+#visitor-map .visitor-card {
+  width: min(444px, 100%);
+  max-width: 100%;
+  min-height: 420px;
+  margin: 8px auto 0;
+  padding: 15px;
+  overflow: visible;
+}
+
+#visitor-map .mapmyvisitors-embed {
+  width: 400px;
+  max-width: 100%;
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: visible;
+}
+
+/* Do not shrink the widget back to the old 310px thumbnail. */
+#visitor-map .mapmyvisitors-embed iframe,
+#visitor-map .mapmyvisitors-embed canvas,
+#visitor-map .mapmyvisitors-embed object {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* Mobile screens: keep the card within the viewport. */
+@media (max-width: 480px) {
+  #visitor-map .visitor-card {
+    width: 100%;
+    min-height: 360px;
+    padding: 10px;
+    overflow: hidden;
+  }
+
+  #visitor-map .mapmyvisitors-embed {
+    max-width: 100%;
+    min-height: 330px;
+  }
+}
